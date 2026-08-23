@@ -38,6 +38,7 @@ S3 Bucket (private, public access fully blocked)
 ├── variables.tf     # Input variables
 ├── main.tf          # ACM, S3, CloudFront, Route 53 resources
 ├── outputs.tf        # Useful outputs (URLs, distribution ID, cert ARN)
+├── terraform.tfvars  #values for variables
 └── www/
     ├── index.html
     └── error.html
