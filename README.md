@@ -63,7 +63,7 @@ outputs. Initial CloudFront propagation can take several minutes.
 | `aws_profile`  | Named AWS CLI profile to use          | `Terraform`                               |
 | `Environment`  | Environment tag                       | `Dev`                                     |
 | `default-tags` | Map of default resource tags          | see `variables.tf`                        |
-| `domain_name`  | Root domain name (must have a public Route 53 hosted zone) | `254103026944.realhandsonlabs.net` |
+| `domain_name`  | Root domain name (must have a public Route 53 hosted zone) | `Route53 Domain name` |
 
 ## Outputs
 
