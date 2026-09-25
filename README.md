@@ -22,7 +22,7 @@ S3 Bucket (private, public access fully blocked)
 - **ACM** — DNS-validated wildcard certificate, must live in `us-east-1`
 - **Route 53** — hosted zone lookup + DNS validation records + alias records
 
-## Prerequisites
+## Prerequisites-11
 
 - Terraform `>= 1.5.0`
 - AWS provider `~> 6.0`
